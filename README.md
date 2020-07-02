@@ -6,6 +6,4 @@ the color palettes that I love to use it for future projects.
 
 
 
-Project about colors (colors palette). I start using ES6 elements such as arrow functions. I use a library called Chroma.Js which It was so useful to make the process faster
-
-and build saturation, brightness and the own color.
+Project about colors (colors palette). I start using ES6 elements such as arrow functions. I use a library called Chroma.Js which It was so useful to make the process faster and build saturation, brightness and the own color.
